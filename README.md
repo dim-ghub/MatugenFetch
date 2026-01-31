@@ -1,2 +1,2 @@
-# WallFetch
-fastfetch logo generator for HyDE
+# MatugenFetch
+fastfetch logo generator for Matugen
