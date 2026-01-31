@@ -1,0 +1,4 @@
+[config]
+[templates.matugenfetch]
+input_path  = '~/.config/matugen/templates/matugenfetch'
+output_path = '~/.config/matugen/generated/matugenfetch'
