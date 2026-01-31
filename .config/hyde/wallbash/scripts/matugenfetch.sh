@@ -1,8 +1,8 @@
 #!/bin/bash
 
-INPUT_DIR="$HOME/.local/share/icons/Wallbash-Icon/distro"
+INPUT_DIR="$HOME/.config/fastfetch/pngs"
 OUTPUT_DIR="$INPUT_DIR/generated"
-COLOR_FILE="$HOME/.cache/hyde/logos.txt"
+COLOR_FILE="$HOME/.config/matugen/generated/matugenfetch"
 
 # Base palette (4 colors)
 BASE_COLORS=( "#A9B1D6" "#C79BF0" "#EBBCBA" "#313244" )
