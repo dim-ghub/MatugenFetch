@@ -1,4 +1,4 @@
-{{colors.tertiary.default.hex}}
-{{colors.secondary.default.hex}}
-{{colors.primary_container.default.hex}}
 {{colors.primary.default.hex}}
+{{colors.primary_fixed_dim.default.hex}}
+{{colors.primary_container.default.hex}}
+{{colors.on_primary_fixed.default.hex}}
