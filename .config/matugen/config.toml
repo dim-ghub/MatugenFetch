@@ -2,3 +2,4 @@
 [templates.matugenfetch]
 input_path  = '~/.config/matugen/templates/matugenfetch'
 output_path = '~/.config/matugen/generated/matugenfetch'
+post_hook = '~/user_scripts/theme_matugen/matugenfetch.sh'
